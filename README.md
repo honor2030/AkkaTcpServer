@@ -1,6 +1,6 @@
 # **AkkaTcpServer(Akka TCP Server Example)**  
 <div align="center">
-<img width="200" src="./src/img/akka.png"/>
+<img width="200" src="./src/img/akka.svg"/>
 </div>
 <div align="center">
   <p style="font-size: 1rem"> Akka TCP Server Example with Springboot </p>
